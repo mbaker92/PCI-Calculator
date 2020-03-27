@@ -1,0 +1,3025 @@
+('D:\\Code\\Misc\\PCICalculator\\PCICalculator\\build\\PCICalculator\\PYZ-00.pyz',
+ [('pkg_resources',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\string.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\struct.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\uuid.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pickle.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\gettext.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\bisect.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\bz2.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\tty.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\cmd.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pprint.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\copy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('win32com',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\imp.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\os.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\typing.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('formulas',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\__init__.py',
+   'PYMODULE'),
+  ('formulas.tokens.operand',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\tokens\\operand.py',
+   'PYMODULE'),
+  ('formulas.tokens.function',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\tokens\\function.py',
+   'PYMODULE'),
+  ('formulas.tokens.parenthesis',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\tokens\\parenthesis.py',
+   'PYMODULE'),
+  ('formulas.tokens.operator',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\tokens\\operator.py',
+   'PYMODULE'),
+  ('formulas.functions.operators',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\functions\\operators.py',
+   'PYMODULE'),
+  ('formulas.functions.look',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\functions\\look.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils.compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\compat.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.py33compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\py33compat.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.pep425tags',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\pep425tags.py',
+   'PYMODULE'),
+  ('setuptools.glibc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\glibc.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.py27compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\py27compat.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\configparser.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.namespaces',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\namespaces.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('setuptools.command.develop',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_rpm',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.command.install',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\setuptools\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py_testing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\f2py_testing.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('pipes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pipes.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('formulas.functions.text',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\functions\\text.py',
+   'PYMODULE'),
+  ('formulas.errors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\errors.py',
+   'PYMODULE'),
+  ('formulas.tokens',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\tokens\\__init__.py',
+   'PYMODULE'),
+  ('schedula',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\__init__.py',
+   'PYMODULE'),
+  ('schedula.utils.io',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\io.py',
+   'PYMODULE'),
+  ('schedula.utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\__init__.py',
+   'PYMODULE'),
+  ('dill',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\__init__.py',
+   'PYMODULE'),
+  ('dill._objects',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\_objects.py',
+   'PYMODULE'),
+  ('_pyio',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_pyio.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\fractions.py',
+   'PYMODULE'),
+  ('dbm.ndbm',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\dbm\\ndbm.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\csv.py',
+   'PYMODULE'),
+  ('xdrlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xdrlib.py',
+   'PYMODULE'),
+  ('shelve',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\shelve.py',
+   'PYMODULE'),
+  ('dbm.gnu',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\dbm\\gnu.py',
+   'PYMODULE'),
+  ('dbm.dumb',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\dbm\\dumb.py',
+   'PYMODULE'),
+  ('dbm',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\dbm\\__init__.py',
+   'PYMODULE'),
+  ('dill.objtypes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\objtypes.py',
+   'PYMODULE'),
+  ('dill.settings',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\settings.py',
+   'PYMODULE'),
+  ('dill.detect',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\detect.py',
+   'PYMODULE'),
+  ('dill.pointers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\pointers.py',
+   'PYMODULE'),
+  ('dill.temp',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\temp.py',
+   'PYMODULE'),
+  ('dill.source',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\source.py',
+   'PYMODULE'),
+  ('dill._dill',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\_dill.py',
+   'PYMODULE'),
+  ('dill.info',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dill\\info.py',
+   'PYMODULE'),
+  ('schedula.utils.graph',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\graph.py',
+   'PYMODULE'),
+  ('schedula.utils.gen',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\gen.py',
+   'PYMODULE'),
+  ('schedula.utils.exc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\exc.py',
+   'PYMODULE'),
+  ('schedula.utils.dsp',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\dsp.py',
+   'PYMODULE'),
+  ('schedula.utils.alg',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\alg.py',
+   'PYMODULE'),
+  ('schedula.utils.des',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\des.py',
+   'PYMODULE'),
+  ('schedula.utils.base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\base.py',
+   'PYMODULE'),
+  ('schedula.utils.drw',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\drw\\__init__.py',
+   'PYMODULE'),
+  ('schedula.utils.drw.nodes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\drw\\nodes.py',
+   'PYMODULE'),
+  ('schedula.utils.sol',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\sol.py',
+   'PYMODULE'),
+  ('schedula.utils.web',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\web.py',
+   'PYMODULE'),
+  ('schedula.utils.cst',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\cst.py',
+   'PYMODULE'),
+  ('schedula.utils.blue',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\blue.py',
+   'PYMODULE'),
+  ('schedula.utils.asy.executors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\asy\\executors.py',
+   'PYMODULE'),
+  ('schedula.utils.asy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\asy\\__init__.py',
+   'PYMODULE'),
+  ('schedula.utils.asy.factory',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\utils\\asy\\factory.py',
+   'PYMODULE'),
+  ('schedula.dispatcher',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\dispatcher.py',
+   'PYMODULE'),
+  ('schedula._version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\schedula\\_version.py',
+   'PYMODULE'),
+  ('regex',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\regex\\__init__.py',
+   'PYMODULE'),
+  ('regex.regex',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\regex\\regex.py',
+   'PYMODULE'),
+  ('regex._regex_core',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\regex\\_regex_core.py',
+   'PYMODULE'),
+  ('formulas.ranges',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\ranges.py',
+   'PYMODULE'),
+  ('formulas.cell',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\cell.py',
+   'PYMODULE'),
+  ('formulas.excel.cycle',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\excel\\cycle.py',
+   'PYMODULE'),
+  ('formulas.functions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\functions\\__init__.py',
+   'PYMODULE'),
+  ('formulas.functions.date',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\functions\\date.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('formulas.parser',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\parser.py',
+   'PYMODULE'),
+  ('formulas.builder',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\builder.py',
+   'PYMODULE'),
+  ('formulas.excel',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\excel\\__init__.py',
+   'PYMODULE'),
+  ('formulas.excel.xlreader',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\excel\\xlreader.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('jdcal',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\jdcal.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('et_xmlfile',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'PYMODULE'),
+  ('formulas._version',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\formulas\\_version.py',
+   'PYMODULE'),
+  ('openpyxl',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\site-packages\\openpyxl\\_constants.py',
+   'PYMODULE')])
