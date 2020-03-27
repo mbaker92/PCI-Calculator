@@ -14,7 +14,7 @@ import threading
 RawDataList=list()
 RawDataWithPCI=list()
 root= Tk()
-
+fileDirect= ""
 
 def ImportRawDataCSV(name):
     with open(name) as csvfile:
@@ -24,6 +24,17 @@ def ImportRawDataCSV(name):
                  RawDataList.append(ACPRaw(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], row[11], row[12], row[13], row[14], row[15], row[16],
                                            row[17], row[18], row[19], row[20], row[21], row[22], row[23], row[24], row[25], row[26], row[27], row[28], row[29], row[30], row[31], row[32], row[33],
                                            row[34], row[35], row[36], row[37]))
+def OutputCSV():
+    with open(os.path.join(fileDirect,'Raw Data PCI.csv'),'w',newline='') as csvFileOut:
+        print(os.path.join(fileDirect,'Raw Data PCI.csv'))
+        writer=csv.writer(csvFileOut)
+        writer.writerow(['StIDSecID','Sample Number', 'Rater', 'StreetName','Begin Location', 'End Location', 'Sample Length', 'Sample Width','Date','Sample Notes','Photos','QA','Special','Sample Area','Alligator L','Alligator M','Alligator H','Block L','Block M','Block H',
+                        'Distortion L','Distortion M','Distortion H','LongTrans L','LongTrans M','LongTrans H','Patch L', 'Patch M', 'Patch H','Raveling L','Raveling M','Raveling H','RuttingDepression L','RuttingDepression M','RuttingDepression H','Weathering L','Weathering M', 'Weathering H','Calculated PCI'])
+        for Sample in RawDataWithPCI:
+            writer.writerow([Sample.StIDSecID,Sample.SampleNumber,Sample.Rater,Sample.StreetName,Sample.BegLocation,Sample.EndLocation,Sample.SampleLength,Sample.SampleWidth,Sample.Date,Sample.SampleNotes,Sample.Photos,Sample.QA,Sample.Special,Sample.SampleArea,
+                            Sample.AlligatorL,Sample.AlligatorM,Sample.AlligatorH,Sample.BlockL,Sample.BlockM,Sample.BlockH,Sample.DistortionL,Sample.DistortionM,Sample.DistortionH,Sample.LongTransL,Sample.LongTransM,Sample.LongTransH,
+                            Sample.PatchL,Sample.PatchM,Sample.PatchH,Sample.RavelingL,Sample.RavelingM,Sample.RavelingH,Sample.RuttingDepressionL,Sample.RuttingDepressionM,Sample.RuttingDepressionH,Sample.WeatheringL,Sample.WeatheringM,Sample.WeatheringH, Sample.CalcPCI])
+
 def WriteToFile(iterat,wb):
         wb['CalcMany'].cell(row=iterat+3,column=2).value=RawDataList[iterat].SampleArea
         wb['CalcMany'].cell(row=iterat+3,column=3).value=RawDataList[iterat].AlligatorL
@@ -96,11 +107,13 @@ def CalculateValues():
                 RawDataWithPCI.append(RawDataList[lastt])
         
             RawDataList.clear()
+        OutputCSV()
         
 
 def callback():
     root.filename = fd.askopenfilename(initialdir="C:",title="Select Raw Data CSV", filetypes=(("csv files","*.csv"),))
     ImportRawDataCSV(root.filename)
+    fileDirect = os.path.dirname(root.filename)
     thread1=threading.Thread(target=CalculateValues, args=())
     progress(thread1)
 
