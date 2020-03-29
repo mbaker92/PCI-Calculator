@@ -15,7 +15,8 @@ IMPORTANT: Do NOT post this list to the issue-tracker. Use it as a basis for
            yourself tracking down the missing module. Thanks!
 
 missing module named pyimod03_importers - imported by C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py (top-level)
-missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers (top-level), pkg_resources._vendor.packaging.requirements (top-level)
+missing module named StringIO - imported by setuptools._vendor.six (conditional), numpy.testing._private.utils (conditional), numpy.lib.utils (delayed, conditional), numpy.lib.format (delayed, conditional), dill._dill (conditional, optional), dill.temp (delayed, conditional), dill._objects (conditional, optional), six (conditional), pkg_resources._vendor.six (conditional)
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements (top-level), pkg_resources._vendor.packaging.markers (top-level)
 missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs (delayed, conditional, optional)
 missing module named com - imported by pkg_resources._vendor.appdirs (delayed)
 missing module named org - imported by copy (optional)
@@ -40,7 +41,6 @@ missing module named _winreg - imported by platform (delayed, optional), numpy.d
 missing module named _uuid - imported by uuid (optional)
 missing module named __builtin__ - imported by numpy.core.numerictypes (conditional), numpy.core.numeric (conditional), numpy.lib.function_base (conditional), numpy.lib._iotools (conditional), numpy.ma.core (conditional), numpy.distutils.misc_util (delayed, conditional), numpy (conditional), dill._dill (conditional), pkg_resources._vendor.pyparsing (conditional), setuptools._vendor.pyparsing (conditional)
 missing module named ordereddict - imported by dill (optional), dill._objects (optional), pkg_resources._vendor.pyparsing (optional), setuptools._vendor.pyparsing (optional)
-missing module named StringIO - imported by setuptools._vendor.six (conditional), numpy.testing._private.utils (conditional), numpy.lib.utils (delayed, conditional), numpy.lib.format (delayed, conditional), dill._dill (conditional, optional), dill.temp (delayed, conditional), dill._objects (conditional, optional), six (conditional), pkg_resources._vendor.six (conditional)
 missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern (top-level), pkg_resources (top-level)
 missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern (top-level), pkg_resources (top-level)
 missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources (top-level), pkg_resources._vendor.packaging.requirements (top-level)
