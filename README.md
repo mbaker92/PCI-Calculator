@@ -21,7 +21,7 @@ A Python program that takes a CSV of road condition data and uses an Excel file 
 <img src="https://github.com/mbaker92/PCI-Calculator/blob/master/PCICalculator/screenshots/Export%20File.PNG?raw=true" align="middle" height="342" width="653">
 
 <h3>Program</h3>
-<p>The program is a simple GUI that will open a file browser when you click on the button. Once the file is selected, the GUI will add a continuous progress bar to show that it is responsive. The command window will show the progress to the user as shown below.</p>
+<p>The program is a simple GUI that will open a file browser when you click on the button. Once the file is selected, the GUI will add a continuous progress bar to show that it is responsive. The command window will show the progress to the user as shown below. The values are calculated in batches of 90 due to the limitations of the Excel file.</p>
 <br>
 <img  src="https://github.com/mbaker92/PCI-Calculator/blob/master/PCICalculator/screenshots/Import1.PNG?raw=true" align="middle" height="342" width="653">
 <img src="https://github.com/mbaker92/PCI-Calculator/blob/master/PCICalculator/screenshots/Import2.PNG?raw=true" align="middle" height="342" width="653">
